@@ -70,7 +70,7 @@ After applying the `Exponentiated Gradient` algorithm, disparities were signific
 
 Visual comparison of post-mitigation **accuracy and selection rates by gender**:
 
-![Fairness Metrics](fairness_metrics_best_plot.png)
+![Fairness Metrics](visualizations/fairness_metrics_best_plot.png)
 
 ---
 
@@ -85,7 +85,7 @@ Understanding why a model makes certain predictions is crucial in high-stakes sc
 
 **SHAP Summary Plot:**
 
-![Model Explainability - SHAP](Model_Explainability_SHAP.png)
+![Model Explainability - SHAP](visualizations/Model_Explainability_SHAP.png)
 
 ---
 
