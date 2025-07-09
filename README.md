@@ -112,7 +112,7 @@ Understanding why a model makes certain predictions is crucial in high-stakes sc
 
 You can view the full fairness audit and bias analysis in the AI Risk Report:
 
-[📥 Download Report (PDF)](./report/ai_risk_report.pdf)
+[📥 Download Report (PDF)](./Report/ai_risk_report.pdf)
 
 ---
 
