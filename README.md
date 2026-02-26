@@ -124,6 +124,6 @@ MIT License
 
 ## Author
 
-**Willy McClanathan**  
+**William McClanathan**  
 Mountlake Terrace, WA | Edmonds College CS
 [GitHub Profile](https://github.com/WillyMcClanathan)
